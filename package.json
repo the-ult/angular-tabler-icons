@@ -33,15 +33,15 @@
     "@angular-devkit/build-angular": "19.2.10",
     "@angular/cli": "19.2.10",
     "@angular/compiler-cli": "~19.2.9",
-    "@types/node": "~22.14.0",
+    "@types/node": "~22.15.3",
     "all-contributors-cli": "^6.26.1",
     "angular-eslint": "~19.3.0",
     "del": "~8.0.0",
-    "eslint": "~9.24.0",
+    "eslint": "~9.25.1",
     "fs-extra": "~11.3.0",
     "ng-packagr": "~19.2.2",
     "typescript": "~5.8.3",
-    "typescript-eslint": "~8.29.1",
+    "typescript-eslint": "~8.31.1",
     "uppercamelcase": "~3.0.0"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
